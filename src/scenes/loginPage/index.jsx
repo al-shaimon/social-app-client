@@ -27,6 +27,9 @@ const LoginPage = () => {
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
           Welcome to Socipedia, the Social Media for Sociopaths!
         </Typography>
+        <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
+          Test Email And Pass: leo@messi.com
+        </Typography>
         <Form />
       </Box>
     </Box>
